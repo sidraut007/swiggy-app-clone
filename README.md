@@ -1,4 +1,4 @@
-# README.MD
+# Instruction to run swiggy-app
 
 # clone repository
 git clone https://github.com/sidraut007/swiggy-app-clone.git
